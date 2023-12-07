@@ -22,4 +22,7 @@
 
 ![base](https://github.com/safae12-1/PROJET_Thymleaf/assets/124156186/e5704bb4-bc05-4446-aaab-686d90df4ab3)
 
--->Suprimer un utilisateur:
+-->Suprimer un utilisateur(safae):
+voila base de donné apres la suppression:
+
+![baseapres](https://github.com/safae12-1/PROJET_Thymleaf/assets/124156186/0858024c-cb97-4f13-8ee8-2edf42b76dd1)
